@@ -6,9 +6,12 @@ HackerRank (https://www.hackerrank.com), building a platform to create the best 
 
 ## Key Visualization and Insights
 
+### 1. To be Successful -- Male Developers vs Female Developers
 
-![]()
-![]()
+![](https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/11.%20If%20Respondent%20is%20Manager%20by%20Gender.png)
+
+#### Insights:
+If you look back to see those pink and blue bar charts (breakdown by gender) in notebook, you might get the idea that there is no big difference between male respondents and female respondents, however, only 19% females became to be managers. By contrast, the proportion of managers for male is more than 33%. It is still very hard to be successful while these female have the same educational background, took to coding when they were young, being at the similar age and doing the same jobs just like guys. Nowadays, all over the world to advocate equality between men and women, and in fact the situation is become better and better, but many people still hold on biased concept in the subconscious.
 
 
 ### 2. What are the Most Important Qualifications Hiring Managers are Looking for?
