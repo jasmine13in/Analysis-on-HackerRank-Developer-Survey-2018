@@ -12,9 +12,9 @@ HackerRank (https://www.hackerrank.com), building a platform to create the best 
 ### 3.How Well Respondents Like Programming Languages When People Know or Will Learn and When People Already Know?
 Programming plays an important role in programming, and people should know how to read and write code written in different programming languages.
 
-https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/13.%20Popularity%20of%20Languages%20that%20People%20Will%20Learn.png
+![](https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/13.%20Popularity%20of%20Languages%20that%20People%20Will%20Learn.png)
 
-https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/14.%20Popularity%20of%20Languages%20that%20People%20Already%20Know.png
+![](https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/14.%20Popularity%20of%20Languages%20that%20People%20Already%20Know.png)
 
 #### Insigths:
 1. Users of HackerRank like Python best! Is doesn't mean Python has the largest user population, but it is apparently that Python performs better than all the other languages, maximizing coder satisfaction.
