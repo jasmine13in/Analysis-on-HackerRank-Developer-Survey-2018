@@ -7,6 +7,20 @@ HackerRank (https://www.hackerrank.com), building a platform to create the best 
 ## Key Visualization and Insights
 
 
+![]()
+![]()
+
+
+### 2. What are the Most Important Qualifications Hiring Managers are Looking for?
+If the respondents choosed "Yes" in Q16 (Do you interview people as part of your company's hiring process),   they picked three of the most important qualifications they look for in an engineering candidate before the onsite.
+
+![](https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/12.%20WordCloud.png)
+
+![](9. How Many Respondents in Top 10 Roles.png)
+
+#### Insights:
+1. Big Data, Security, Development, Data Science, Cloud and Machine Learning have a huge scope in the future. It is evident that with the increasiing data, we need to save the data, thus we need Cloud, then we need to analyze and build automative systems, for this we need Data Science and Machine Learning and Security for storing the data. Thus candidates developing skills in these domains have a bright future ahead.
+2. The picture of Big Data looks good, however, in the question of current roles, the ranking of Data Scientist is 9 and it is the only one made top 10. Why this domain is in high demand but the group of people work on data is not as big as we thought? It is impossible that data positions demand very comprehensive capability for candidates, such as programming languages, statistics, modeling, analytical mind.. Employers are willing to pay them a lot, while not many can be good at all those skills.
 
 
 ### 3.How Well Respondents Like Programming Languages When People Know or Will Learn and When People Already Know?
