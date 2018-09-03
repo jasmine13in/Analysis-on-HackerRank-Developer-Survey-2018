@@ -14,9 +14,9 @@ HackerRank (https://www.hackerrank.com), building a platform to create the best 
 ### 2. What are the Most Important Qualifications Hiring Managers are Looking for?
 If the respondents choosed "Yes" in Q16 (Do you interview people as part of your company's hiring process),   they picked three of the most important qualifications they look for in an engineering candidate before the onsite.
 
-![](https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/12.%20WordCloud.png)
+![](https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/12.%20Most%20Important%20Qualifications.png)
 
-![](9. How Many Respondents in Top 10 Roles.png)
+![](https://github.com/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Visualization%20Images/9.%20How%20Many%20Respondents%20in%20Top%2010%20Roles.png)
 
 #### Insights:
 1. Big Data, Security, Development, Data Science, Cloud and Machine Learning have a huge scope in the future. It is evident that with the increasiing data, we need to save the data, thus we need Cloud, then we need to analyze and build automative systems, for this we need Data Science and Machine Learning and Security for storing the data. Thus candidates developing skills in these domains have a bright future ahead.
