@@ -4,6 +4,27 @@ Analysis on a survey conducted by HackerRank to ask developers about their age, 
 ## Context
 HackerRank (https://www.hackerrank.com), building a platform to create the best experience for both individuals and companies, conducted a survey of their developers late in 2016 in order to provide more transparency for themselves and the world on the state of developers. The survey asked developers many questions around their skills, educational background, current role, and more. The data set they released is the full dataset of 25K responses from our developer survey, which includes both students and professionals.
 
+
+## Data Discription
+The data consists of five files:
+
+<b>HackerRank-Developer-Survey-2018-Codebook.csv</b>: 
+a CSV file with survey schema. This schema includes the questions that correspond to each column name in HackerRank-Developer-Survey-2018-Numeric.csv and HackerRank-Developer-Survey-2018-Values.csv. It also provides extra notes on questions if they were conditionally shown, or what the correct answer was to a coding question.
+
+<b>HackerRank-Developer-Survey-2018-Numeric-Mapping.csv</b>: This file provides the mapping from the numeric values in HackerRank-Developer-Survey-2018-Numeric.csv and what their textual representation in the survey was. Each row represents one of the possible answers to a specific question, with a mapping of the numeric answer in the data file to the textual label in the survey.
+
+<b>Country-Code-Mapping.csv</b>: 
+a CSV file that provides the mapping of the numeric country code in our raw data in HackerRank-Developer-Survey-2018-Numeric.csv to the associated country.
+
+<b>HackerRank-Developer-Survey-2018-Numeric.csv</b>: 
+a CSV file with the raw survey responses. Each row is one respondent, including an anonymous respondent id, the timestamp of when the survey was started and ended, and the numeric responses to each question. This is the data file that we used for our analysis.
+
+
+<b>HackerRank-Developer-Survey-2018-Values.csv</b>: 
+a CSV file with the text version of the survey responses. Each row is one respondent, including an anonymous respondent id, the timestamp of when the survey was started and ended, and the textual response to each question. This file was derived from HackerRank-Developer-Survey-2018-Numeric.csv using the mapping files that are included in this data set. We provide it for ease of use for those who prefer to work directly with the text values.
+
+
+
 ## Key Visualization and Insights
 
 ### 1. To be Successful -- Male Developers vs Female Developers
