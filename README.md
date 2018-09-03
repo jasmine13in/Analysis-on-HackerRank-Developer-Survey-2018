@@ -59,5 +59,4 @@ Programming plays an important role in programming, and people should know how t
 2. Put both of above two plots together, I found that the heights of hate bars in the first chart are shorter than those in the second chart. This indicates that people usually feel bad at the very beginning of their coding study or they worry about if they can handle the language, but they feel a lot better when they really master it. 
 
 ## Python Jupyter Notebook in nbviewer
-http://nbviewer.ipython.org/github/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Analysis%20of%20HackerRank%20Developer%20Survey%202018%20-%20Final.ipynb
-    
+http://nbviewer.ipython.org/github/shuanghao0808/Analysis-on-HackerRank-Developer-Survey-2018/blob/master/Analysis/Analysis%20of%20HackerRank%20Developer%20Survey%202018%20-%20Final.ipynb
