@@ -39,14 +39,14 @@ Programming plays an important role in programming, and people should know how t
 
 
 ## Package Used
-- pandas
-- numpy
-- seaborn
-- matplotlib
-- plotly
+- Pandas
+- Numpy
+- Seaborn
+- Matplotlib
+- Plotly
 - os
 - PIL
-- wordcloud
+- Wordcloud
 
 ## Data Discription
 The data consists of five files:
